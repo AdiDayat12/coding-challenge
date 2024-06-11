@@ -19,3 +19,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/AdiDayat12/coding-challenge/tree/master/1137-height-checker) |
+# String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/AdiDayat12/coding-challenge/tree/master/0742-to-lower-case) |
