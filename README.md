@@ -22,4 +22,9 @@
 # String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/AdiDayat12/coding-challenge/tree/master/0168-excel-sheet-column-title) |
 | [0742-to-lower-case](https://github.com/AdiDayat12/coding-challenge/tree/master/0742-to-lower-case) |
+# Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/AdiDayat12/coding-challenge/tree/master/0168-excel-sheet-column-title) |
