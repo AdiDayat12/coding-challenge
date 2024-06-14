@@ -9,6 +9,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AdiDayat12/coding-challenge/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/AdiDayat12/coding-challenge/tree/master/0217-contains-duplicate) |
 # Sorting
 |  |
@@ -22,9 +23,11 @@
 # String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AdiDayat12/coding-challenge/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/AdiDayat12/coding-challenge/tree/master/0168-excel-sheet-column-title) |
 | [0742-to-lower-case](https://github.com/AdiDayat12/coding-challenge/tree/master/0742-to-lower-case) |
 # Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AdiDayat12/coding-challenge/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/AdiDayat12/coding-challenge/tree/master/0168-excel-sheet-column-title) |
