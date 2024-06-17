@@ -31,3 +31,4 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/AdiDayat12/coding-challenge/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/AdiDayat12/coding-challenge/tree/master/0168-excel-sheet-column-title) |
+| [0263-ugly-number](https://github.com/AdiDayat12/coding-challenge/tree/master/0263-ugly-number) |
