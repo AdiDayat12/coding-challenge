@@ -47,3 +47,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AdiDayat12/coding-challenge/tree/master/0258-add-digits) |
+# Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/AdiDayat12/coding-challenge/tree/master/0182-duplicate-emails) |
