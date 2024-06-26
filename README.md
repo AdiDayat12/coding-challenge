@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AdiDayat12/coding-challenge/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AdiDayat12/coding-challenge/tree/master/0217-contains-duplicate) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AdiDayat12/coding-challenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1137-height-checker](https://github.com/AdiDayat12/coding-challenge/tree/master/1137-height-checker) |
@@ -54,3 +55,7 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/AdiDayat12/coding-challenge/tree/master/0182-duplicate-emails) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AdiDayat12/coding-challenge/tree/master/0136-single-number) |
