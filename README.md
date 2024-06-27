@@ -6,6 +6,7 @@
 | ------- |
 | [0136-single-number](https://github.com/AdiDayat12/coding-challenge/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AdiDayat12/coding-challenge/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/AdiDayat12/coding-challenge/tree/master/0414-third-maximum-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AdiDayat12/coding-challenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1137-height-checker](https://github.com/AdiDayat12/coding-challenge/tree/master/1137-height-checker) |
 # Hash Table
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AdiDayat12/coding-challenge/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/AdiDayat12/coding-challenge/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/AdiDayat12/coding-challenge/tree/master/1137-height-checker) |
 # Counting Sort
 |  |
