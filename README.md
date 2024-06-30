@@ -67,11 +67,13 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdiDayat12/coding-challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
