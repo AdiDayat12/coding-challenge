@@ -76,6 +76,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdiDayat12/coding-challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Two Pointers
 |  |
@@ -92,10 +93,12 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AdiDayat12/coding-challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
@@ -104,4 +107,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AdiDayat12/coding-challenge/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
