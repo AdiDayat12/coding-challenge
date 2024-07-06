@@ -117,4 +117,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdiDayat12/coding-challenge/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
