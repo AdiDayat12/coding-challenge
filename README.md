@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdiDayat12/coding-challenge/tree/master/0011-container-with-most-water) |
+| [0169-majority-element](https://github.com/AdiDayat12/coding-challenge/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/AdiDayat12/coding-challenge/tree/master/1293-three-consecutive-odds) |
@@ -77,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AdiDayat12/coding-challenge/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdiDayat12/coding-challenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -97,6 +99,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AdiDayat12/coding-challenge/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
@@ -115,6 +118,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AdiDayat12/coding-challenge/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdiDayat12/coding-challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -145,4 +149,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/AdiDayat12/coding-challenge/tree/master/0459-repeated-substring-pattern) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AdiDayat12/coding-challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
