@@ -112,6 +112,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AdiDayat12/coding-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/AdiDayat12/coding-challenge/tree/master/0459-repeated-substring-pattern) |
+| [1666-make-the-string-great](https://github.com/AdiDayat12/coding-challenge/tree/master/1666-make-the-string-great) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Queue
 |  |
@@ -156,4 +157,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdiDayat12/coding-challenge/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1666-make-the-string-great](https://github.com/AdiDayat12/coding-challenge/tree/master/1666-make-the-string-great) |
 <!---LeetCode Topics End-->
