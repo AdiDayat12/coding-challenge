@@ -76,6 +76,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3463-alternating-groups-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [1666-make-the-string-great](https://github.com/AdiDayat12/coding-challenge/tree/master/1666-make-the-string-great) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
