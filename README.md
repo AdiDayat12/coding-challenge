@@ -116,6 +116,7 @@
 | [0459-repeated-substring-pattern](https://github.com/AdiDayat12/coding-challenge/tree/master/0459-repeated-substring-pattern) |
 | [1666-make-the-string-great](https://github.com/AdiDayat12/coding-challenge/tree/master/1666-make-the-string-great) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3468-find-the-encrypted-string](https://github.com/AdiDayat12/coding-challenge/tree/master/3468-find-the-encrypted-string) |
 ## Queue
 |  |
 | ------- |
