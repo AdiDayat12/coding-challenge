@@ -118,6 +118,7 @@
 | [1666-make-the-string-great](https://github.com/AdiDayat12/coding-challenge/tree/master/1666-make-the-string-great) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3468-find-the-encrypted-string](https://github.com/AdiDayat12/coding-challenge/tree/master/3468-find-the-encrypted-string) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdiDayat12/coding-challenge/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Queue
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdiDayat12/coding-challenge/tree/master/0011-container-with-most-water) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdiDayat12/coding-challenge/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Math
 |  |
 | ------- |
