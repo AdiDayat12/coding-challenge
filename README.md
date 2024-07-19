@@ -72,6 +72,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AdiDayat12/coding-challenge/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/AdiDayat12/coding-challenge/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1803-average-waiting-time](https://github.com/AdiDayat12/coding-challenge/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -176,4 +177,8 @@
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/AdiDayat12/coding-challenge/tree/master/3221-find-the-peaks) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/AdiDayat12/coding-challenge/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
