@@ -77,6 +77,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/AdiDayat12/coding-challenge/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/AdiDayat12/coding-challenge/tree/master/3221-find-the-peaks) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -154,6 +155,7 @@
 | [1803-average-waiting-time](https://github.com/AdiDayat12/coding-challenge/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/AdiDayat12/coding-challenge/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Recursion
 |  |
