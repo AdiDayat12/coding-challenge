@@ -74,6 +74,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AdiDayat12/coding-challenge/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AdiDayat12/coding-challenge/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdiDayat12/coding-challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/AdiDayat12/coding-challenge/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -95,6 +96,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AdiDayat12/coding-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 | [1297-maximum-number-of-balloons](https://github.com/AdiDayat12/coding-challenge/tree/master/1297-maximum-number-of-balloons) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdiDayat12/coding-challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -123,6 +125,7 @@
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdiDayat12/coding-challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 ## String
