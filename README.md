@@ -103,6 +103,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Two Pointers
 |  |
@@ -134,6 +135,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdiDayat12/coding-challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3468-find-the-encrypted-string](https://github.com/AdiDayat12/coding-challenge/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdiDayat12/coding-challenge/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Queue
@@ -159,6 +162,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AdiDayat12/coding-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/AdiDayat12/coding-challenge/tree/master/1297-maximum-number-of-balloons) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -167,6 +171,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdiDayat12/coding-challenge/tree/master/0011-container-with-most-water) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdiDayat12/coding-challenge/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Math
 |  |
