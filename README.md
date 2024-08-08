@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/AdiDayat12/coding-challenge/tree/master/0367-valid-perfect-square) |
+| [0504-base-7](https://github.com/AdiDayat12/coding-challenge/tree/master/0504-base-7) |
 | [1642-water-bottles](https://github.com/AdiDayat12/coding-challenge/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
