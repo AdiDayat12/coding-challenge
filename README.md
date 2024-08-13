@@ -142,6 +142,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AdiDayat12/coding-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/AdiDayat12/coding-challenge/tree/master/0459-repeated-substring-pattern) |
+| [1260-day-of-the-year](https://github.com/AdiDayat12/coding-challenge/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/AdiDayat12/coding-challenge/tree/master/1297-maximum-number-of-balloons) |
 | [1666-make-the-string-great](https://github.com/AdiDayat12/coding-challenge/tree/master/1666-make-the-string-great) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -181,6 +182,7 @@
 | [0367-valid-perfect-square](https://github.com/AdiDayat12/coding-challenge/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/AdiDayat12/coding-challenge/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/AdiDayat12/coding-challenge/tree/master/1013-fibonacci-number) |
+| [1260-day-of-the-year](https://github.com/AdiDayat12/coding-challenge/tree/master/1260-day-of-the-year) |
 | [1642-water-bottles](https://github.com/AdiDayat12/coding-challenge/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2556-convert-the-temperature](https://github.com/AdiDayat12/coding-challenge/tree/master/2556-convert-the-temperature) |
