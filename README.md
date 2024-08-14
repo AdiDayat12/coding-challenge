@@ -70,6 +70,7 @@
 | [0169-majority-element](https://github.com/AdiDayat12/coding-challenge/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/AdiDayat12/coding-challenge/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AdiDayat12/coding-challenge/tree/master/1293-three-consecutive-odds) |
@@ -129,6 +130,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/AdiDayat12/coding-challenge/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdiDayat12/coding-challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -232,6 +234,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/AdiDayat12/coding-challenge/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
