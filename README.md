@@ -171,11 +171,13 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AdiDayat12/coding-challenge/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/AdiDayat12/coding-challenge/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/AdiDayat12/coding-challenge/tree/master/0476-number-complement) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdiDayat12/coding-challenge/tree/master/0011-container-with-most-water) |
+| [0397-integer-replacement](https://github.com/AdiDayat12/coding-challenge/tree/master/0397-integer-replacement) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdiDayat12/coding-challenge/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Math
@@ -260,10 +262,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/AdiDayat12/coding-challenge/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/AdiDayat12/coding-challenge/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/AdiDayat12/coding-challenge/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/AdiDayat12/coding-challenge/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
