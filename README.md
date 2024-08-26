@@ -71,6 +71,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/AdiDayat12/coding-challenge/tree/master/0506-relative-ranks) |
+| [0805-escape-the-ghosts](https://github.com/AdiDayat12/coding-challenge/tree/master/0805-escape-the-ghosts) |
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AdiDayat12/coding-challenge/tree/master/1293-three-consecutive-odds) |
@@ -190,6 +191,7 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/AdiDayat12/coding-challenge/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/AdiDayat12/coding-challenge/tree/master/0504-base-7) |
+| [0805-escape-the-ghosts](https://github.com/AdiDayat12/coding-challenge/tree/master/0805-escape-the-ghosts) |
 | [1013-fibonacci-number](https://github.com/AdiDayat12/coding-challenge/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/AdiDayat12/coding-challenge/tree/master/1260-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/AdiDayat12/coding-challenge/tree/master/1289-day-of-the-week) |
