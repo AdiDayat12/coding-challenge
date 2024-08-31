@@ -70,6 +70,7 @@
 | [0169-majority-element](https://github.com/AdiDayat12/coding-challenge/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/AdiDayat12/coding-challenge/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/AdiDayat12/coding-challenge/tree/master/0506-relative-ranks) |
 | [0805-escape-the-ghosts](https://github.com/AdiDayat12/coding-challenge/tree/master/0805-escape-the-ghosts) |
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
