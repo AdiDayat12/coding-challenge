@@ -73,6 +73,7 @@
 | [0485-max-consecutive-ones](https://github.com/AdiDayat12/coding-challenge/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/AdiDayat12/coding-challenge/tree/master/0506-relative-ranks) |
 | [0805-escape-the-ghosts](https://github.com/AdiDayat12/coding-challenge/tree/master/0805-escape-the-ghosts) |
+| [0941-sort-array-by-parity](https://github.com/AdiDayat12/coding-challenge/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AdiDayat12/coding-challenge/tree/master/1293-three-consecutive-odds) |
@@ -118,6 +119,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdiDayat12/coding-challenge/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0941-sort-array-by-parity](https://github.com/AdiDayat12/coding-challenge/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdiDayat12/coding-challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -138,6 +140,7 @@
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/AdiDayat12/coding-challenge/tree/master/0506-relative-ranks) |
+| [0941-sort-array-by-parity](https://github.com/AdiDayat12/coding-challenge/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdiDayat12/coding-challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
