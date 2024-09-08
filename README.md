@@ -77,6 +77,7 @@
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AdiDayat12/coding-challenge/tree/master/1293-three-consecutive-odds) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdiDayat12/coding-challenge/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AdiDayat12/coding-challenge/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdiDayat12/coding-challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdiDayat12/coding-challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -135,6 +136,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AdiDayat12/coding-challenge/tree/master/0367-valid-perfect-square) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdiDayat12/coding-challenge/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdiDayat12/coding-challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -262,6 +264,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdiDayat12/coding-challenge/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AdiDayat12/coding-challenge/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
