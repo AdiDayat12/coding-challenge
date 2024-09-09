@@ -220,6 +220,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2556-convert-the-temperature](https://github.com/AdiDayat12/coding-challenge/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
+| [2752-sum-multiples](https://github.com/AdiDayat12/coding-challenge/tree/master/2752-sum-multiples) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/AdiDayat12/coding-challenge/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
