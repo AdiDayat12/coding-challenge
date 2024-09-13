@@ -77,6 +77,7 @@
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/AdiDayat12/coding-challenge/tree/master/1293-three-consecutive-odds) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AdiDayat12/coding-challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdiDayat12/coding-challenge/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AdiDayat12/coding-challenge/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdiDayat12/coding-challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -206,6 +207,7 @@
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/AdiDayat12/coding-challenge/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/AdiDayat12/coding-challenge/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AdiDayat12/coding-challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdiDayat12/coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AdiDayat12/coding-challenge/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Greedy
@@ -316,4 +318,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/AdiDayat12/coding-challenge/tree/master/0175-combine-two-tables) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/AdiDayat12/coding-challenge/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
