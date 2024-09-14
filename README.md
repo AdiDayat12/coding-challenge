@@ -89,6 +89,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/AdiDayat12/coding-challenge/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -115,6 +116,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdiDayat12/coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AdiDayat12/coding-challenge/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -157,6 +159,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdiDayat12/coding-challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdiDayat12/coding-challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -239,6 +242,7 @@
 | [1803-average-waiting-time](https://github.com/AdiDayat12/coding-challenge/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdiDayat12/coding-challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AdiDayat12/coding-challenge/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
