@@ -225,6 +225,7 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/AdiDayat12/coding-challenge/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/AdiDayat12/coding-challenge/tree/master/0504-base-7) |
+| [0728-self-dividing-numbers](https://github.com/AdiDayat12/coding-challenge/tree/master/0728-self-dividing-numbers) |
 | [0805-escape-the-ghosts](https://github.com/AdiDayat12/coding-challenge/tree/master/0805-escape-the-ghosts) |
 | [1013-fibonacci-number](https://github.com/AdiDayat12/coding-challenge/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/AdiDayat12/coding-challenge/tree/master/1260-day-of-the-year) |
