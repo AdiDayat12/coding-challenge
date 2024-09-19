@@ -217,6 +217,7 @@
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/AdiDayat12/coding-challenge/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/AdiDayat12/coding-challenge/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/AdiDayat12/coding-challenge/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdiDayat12/coding-challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdiDayat12/coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AdiDayat12/coding-challenge/tree/master/2323-minimum-bit-flips-to-convert-number) |
