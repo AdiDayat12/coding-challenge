@@ -170,6 +170,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AdiDayat12/coding-challenge/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdiDayat12/coding-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/0451-sort-characters-by-frequency) |
@@ -279,6 +280,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AdiDayat12/coding-challenge/tree/master/0020-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/AdiDayat12/coding-challenge/tree/master/1666-make-the-string-great) |
 ## Sliding Window
 |  |
