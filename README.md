@@ -84,6 +84,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AdiDayat12/coding-challenge/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdiDayat12/coding-challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdiDayat12/coding-challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1635-number-of-good-pairs](https://github.com/AdiDayat12/coding-challenge/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AdiDayat12/coding-challenge/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdiDayat12/coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -119,6 +120,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/AdiDayat12/coding-challenge/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/AdiDayat12/coding-challenge/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdiDayat12/coding-challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/AdiDayat12/coding-challenge/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdiDayat12/coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/1848-sum-of-unique-elements) |
@@ -212,6 +214,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AdiDayat12/coding-challenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/AdiDayat12/coding-challenge/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/AdiDayat12/coding-challenge/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdiDayat12/coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/AdiDayat12/coding-challenge/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/1848-sum-of-unique-elements) |
@@ -247,6 +250,7 @@
 | [1013-fibonacci-number](https://github.com/AdiDayat12/coding-challenge/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/AdiDayat12/coding-challenge/tree/master/1260-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/AdiDayat12/coding-challenge/tree/master/1289-day-of-the-week) |
+| [1635-number-of-good-pairs](https://github.com/AdiDayat12/coding-challenge/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/AdiDayat12/coding-challenge/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/AdiDayat12/coding-challenge/tree/master/2383-add-two-integers) |
