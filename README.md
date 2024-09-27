@@ -98,6 +98,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdiDayat12/coding-challenge/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/AdiDayat12/coding-challenge/tree/master/2727-number-of-senior-citizens) |
+| [2836-neither-minimum-nor-maximum](https://github.com/AdiDayat12/coding-challenge/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -174,6 +175,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
+| [2836-neither-minimum-nor-maximum](https://github.com/AdiDayat12/coding-challenge/tree/master/2836-neither-minimum-nor-maximum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
