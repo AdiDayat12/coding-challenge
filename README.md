@@ -207,6 +207,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3468-find-the-encrypted-string](https://github.com/AdiDayat12/coding-challenge/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdiDayat12/coding-challenge/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3567-convert-date-to-binary](https://github.com/AdiDayat12/coding-challenge/tree/master/3567-convert-date-to-binary) |
 ## Queue
 |  |
 | ------- |
@@ -264,6 +265,7 @@
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/AdiDayat12/coding-challenge/tree/master/2752-sum-multiples) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/AdiDayat12/coding-challenge/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3567-convert-date-to-binary](https://github.com/AdiDayat12/coding-challenge/tree/master/3567-convert-date-to-binary) |
 ## Simulation
 |  |
 | ------- |
