@@ -187,6 +187,7 @@
 | [0459-repeated-substring-pattern](https://github.com/AdiDayat12/coding-challenge/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdiDayat12/coding-challenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0822-unique-morse-code-words](https://github.com/AdiDayat12/coding-challenge/tree/master/0822-unique-morse-code-words) |
+| [0851-goat-latin](https://github.com/AdiDayat12/coding-challenge/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AdiDayat12/coding-challenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/AdiDayat12/coding-challenge/tree/master/0953-reverse-only-letters) |
 | [1260-day-of-the-year](https://github.com/AdiDayat12/coding-challenge/tree/master/1260-day-of-the-year) |
