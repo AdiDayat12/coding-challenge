@@ -212,6 +212,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdiDayat12/coding-challenge/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/AdiDayat12/coding-challenge/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AdiDayat12/coding-challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3468-find-the-encrypted-string](https://github.com/AdiDayat12/coding-challenge/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdiDayat12/coding-challenge/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -284,6 +285,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdiDayat12/coding-challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AdiDayat12/coding-challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AdiDayat12/coding-challenge/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/AdiDayat12/coding-challenge/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -309,6 +311,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdiDayat12/coding-challenge/tree/master/0020-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/AdiDayat12/coding-challenge/tree/master/1666-make-the-string-great) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AdiDayat12/coding-challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
