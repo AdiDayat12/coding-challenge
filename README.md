@@ -204,6 +204,7 @@
 | [1666-make-the-string-great](https://github.com/AdiDayat12/coding-challenge/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AdiDayat12/coding-challenge/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdiDayat12/coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-goal-parser-interpretation](https://github.com/AdiDayat12/coding-challenge/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/AdiDayat12/coding-challenge/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AdiDayat12/coding-challenge/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdiDayat12/coding-challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
