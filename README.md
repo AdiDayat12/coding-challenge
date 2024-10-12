@@ -210,6 +210,7 @@
 | [1797-goal-parser-interpretation](https://github.com/AdiDayat12/coding-challenge/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/AdiDayat12/coding-challenge/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1970-sorting-the-sentence](https://github.com/AdiDayat12/coding-challenge/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/AdiDayat12/coding-challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AdiDayat12/coding-challenge/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdiDayat12/coding-challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -260,6 +261,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdiDayat12/coding-challenge/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/AdiDayat12/coding-challenge/tree/master/0397-integer-replacement) |
+| [2032-largest-odd-number-in-string](https://github.com/AdiDayat12/coding-challenge/tree/master/2032-largest-odd-number-in-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdiDayat12/coding-challenge/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Math
@@ -275,6 +277,7 @@
 | [1635-number-of-good-pairs](https://github.com/AdiDayat12/coding-challenge/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/AdiDayat12/coding-challenge/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/AdiDayat12/coding-challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/AdiDayat12/coding-challenge/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/AdiDayat12/coding-challenge/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
