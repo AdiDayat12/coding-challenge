@@ -182,6 +182,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/AdiDayat12/coding-challenge/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AdiDayat12/coding-challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdiDayat12/coding-challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -262,6 +263,7 @@
 | [0011-container-with-most-water](https://github.com/AdiDayat12/coding-challenge/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/AdiDayat12/coding-challenge/tree/master/0397-integer-replacement) |
 | [2032-largest-odd-number-in-string](https://github.com/AdiDayat12/coding-challenge/tree/master/2032-largest-odd-number-in-string) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AdiDayat12/coding-challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdiDayat12/coding-challenge/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Math
@@ -278,6 +280,7 @@
 | [1642-water-bottles](https://github.com/AdiDayat12/coding-challenge/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/AdiDayat12/coding-challenge/tree/master/2032-largest-odd-number-in-string) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AdiDayat12/coding-challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/AdiDayat12/coding-challenge/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/AdiDayat12/coding-challenge/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
