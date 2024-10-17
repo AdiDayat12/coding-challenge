@@ -208,6 +208,7 @@
 | [0953-reverse-only-letters](https://github.com/AdiDayat12/coding-challenge/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/AdiDayat12/coding-challenge/tree/master/0961-long-pressed-name) |
 | [1260-day-of-the-year](https://github.com/AdiDayat12/coding-challenge/tree/master/1260-day-of-the-year) |
+| [1283-reformat-date](https://github.com/AdiDayat12/coding-challenge/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/AdiDayat12/coding-challenge/tree/master/1297-maximum-number-of-balloons) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/AdiDayat12/coding-challenge/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/AdiDayat12/coding-challenge/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
