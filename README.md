@@ -288,6 +288,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AdiDayat12/coding-challenge/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/AdiDayat12/coding-challenge/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/AdiDayat12/coding-challenge/tree/master/1642-water-bottles) |
+| [1806-count-of-matches-in-tournament](https://github.com/AdiDayat12/coding-challenge/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/AdiDayat12/coding-challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AdiDayat12/coding-challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -303,6 +304,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/AdiDayat12/coding-challenge/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/AdiDayat12/coding-challenge/tree/master/1803-average-waiting-time) |
+| [1806-count-of-matches-in-tournament](https://github.com/AdiDayat12/coding-challenge/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdiDayat12/coding-challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
