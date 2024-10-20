@@ -75,6 +75,7 @@
 | [0805-escape-the-ghosts](https://github.com/AdiDayat12/coding-challenge/tree/master/0805-escape-the-ghosts) |
 | [0822-unique-morse-code-words](https://github.com/AdiDayat12/coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/AdiDayat12/coding-challenge/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/AdiDayat12/coding-challenge/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/AdiDayat12/coding-challenge/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
@@ -151,6 +152,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdiDayat12/coding-challenge/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0841-shortest-distance-to-a-character](https://github.com/AdiDayat12/coding-challenge/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/AdiDayat12/coding-challenge/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/AdiDayat12/coding-challenge/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/AdiDayat12/coding-challenge/tree/master/0961-long-pressed-name) |
@@ -203,6 +205,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdiDayat12/coding-challenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0822-unique-morse-code-words](https://github.com/AdiDayat12/coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/AdiDayat12/coding-challenge/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/AdiDayat12/coding-challenge/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/AdiDayat12/coding-challenge/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AdiDayat12/coding-challenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/AdiDayat12/coding-challenge/tree/master/0953-reverse-only-letters) |
