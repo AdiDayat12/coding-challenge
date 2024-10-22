@@ -297,6 +297,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/AdiDayat12/coding-challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AdiDayat12/coding-challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2288-count-operations-to-obtain-zero](https://github.com/AdiDayat12/coding-challenge/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/AdiDayat12/coding-challenge/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/AdiDayat12/coding-challenge/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
@@ -313,6 +314,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdiDayat12/coding-challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2288-count-operations-to-obtain-zero](https://github.com/AdiDayat12/coding-challenge/tree/master/2288-count-operations-to-obtain-zero) |
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AdiDayat12/coding-challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AdiDayat12/coding-challenge/tree/master/3220-count-tested-devices-after-test-operations) |
