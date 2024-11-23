@@ -104,6 +104,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdiDayat12/coding-challenge/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdiDayat12/coding-challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/AdiDayat12/coding-challenge/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AdiDayat12/coding-challenge/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -304,6 +305,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/AdiDayat12/coding-challenge/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/AdiDayat12/coding-challenge/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/AdiDayat12/coding-challenge/tree/master/2556-convert-the-temperature) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/AdiDayat12/coding-challenge/tree/master/2752-sum-multiples) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/AdiDayat12/coding-challenge/tree/master/3511-find-the-winning-player-in-coin-game) |
