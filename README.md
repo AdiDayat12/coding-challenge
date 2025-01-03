@@ -102,6 +102,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdiDayat12/coding-challenge/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2358-number-of-ways-to-split-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdiDayat12/coding-challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -416,4 +417,5 @@
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdiDayat12/coding-challenge/tree/master/1435-xor-queries-of-a-subarray) |
+| [2358-number-of-ways-to-split-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
