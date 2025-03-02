@@ -107,6 +107,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdiDayat12/coding-challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdiDayat12/coding-challenge/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AdiDayat12/coding-challenge/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/AdiDayat12/coding-challenge/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AdiDayat12/coding-challenge/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -145,6 +146,7 @@
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdiDayat12/coding-challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdiDayat12/coding-challenge/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AdiDayat12/coding-challenge/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2825-minimize-string-length](https://github.com/AdiDayat12/coding-challenge/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -167,6 +169,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdiDayat12/coding-challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdiDayat12/coding-challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AdiDayat12/coding-challenge/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
 |  |
