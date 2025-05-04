@@ -80,6 +80,7 @@
 | [0948-sort-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdiDayat12/coding-challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AdiDayat12/coding-challenge/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/AdiDayat12/coding-challenge/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/AdiDayat12/coding-challenge/tree/master/1319-unique-number-of-occurrences) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdiDayat12/coding-challenge/tree/master/1435-xor-queries-of-a-subarray) |
@@ -133,6 +134,7 @@
 | [0822-unique-morse-code-words](https://github.com/AdiDayat12/coding-challenge/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/AdiDayat12/coding-challenge/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AdiDayat12/coding-challenge/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AdiDayat12/coding-challenge/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/AdiDayat12/coding-challenge/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/AdiDayat12/coding-challenge/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/AdiDayat12/coding-challenge/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -266,6 +268,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/AdiDayat12/coding-challenge/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AdiDayat12/coding-challenge/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AdiDayat12/coding-challenge/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/AdiDayat12/coding-challenge/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/AdiDayat12/coding-challenge/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdiDayat12/coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
