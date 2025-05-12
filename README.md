@@ -101,6 +101,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/AdiDayat12/coding-challenge/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AdiDayat12/coding-challenge/tree/master/2215-finding-3-digit-even-numbers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdiDayat12/coding-challenge/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -146,6 +147,7 @@
 | [1848-sum-of-unique-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AdiDayat12/coding-challenge/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AdiDayat12/coding-challenge/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdiDayat12/coding-challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -204,6 +206,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/AdiDayat12/coding-challenge/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AdiDayat12/coding-challenge/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AdiDayat12/coding-challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AdiDayat12/coding-challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/AdiDayat12/coding-challenge/tree/master/2502-sort-the-people) |
@@ -376,6 +379,7 @@
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/AdiDayat12/coding-challenge/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AdiDayat12/coding-challenge/tree/master/2215-finding-3-digit-even-numbers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/AdiDayat12/coding-challenge/tree/master/3221-find-the-peaks) |
 ## Matrix
