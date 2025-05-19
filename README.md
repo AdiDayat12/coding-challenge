@@ -122,6 +122,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/AdiDayat12/coding-challenge/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AdiDayat12/coding-challenge/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3321-type-of-triangle](https://github.com/AdiDayat12/coding-challenge/tree/master/3321-type-of-triangle) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3463-alternating-groups-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3463-alternating-groups-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AdiDayat12/coding-challenge/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -215,6 +216,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AdiDayat12/coding-challenge/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AdiDayat12/coding-challenge/tree/master/2836-neither-minimum-nor-maximum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3321-type-of-triangle](https://github.com/AdiDayat12/coding-challenge/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -330,6 +332,7 @@
 | [2645-pass-the-pillow](https://github.com/AdiDayat12/coding-challenge/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/AdiDayat12/coding-challenge/tree/master/2752-sum-multiples) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdiDayat12/coding-challenge/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/AdiDayat12/coding-challenge/tree/master/3321-type-of-triangle) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/AdiDayat12/coding-challenge/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3567-convert-date-to-binary](https://github.com/AdiDayat12/coding-challenge/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AdiDayat12/coding-challenge/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
