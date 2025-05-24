@@ -116,6 +116,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3194-find-words-containing-character](https://github.com/AdiDayat12/coding-challenge/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AdiDayat12/coding-challenge/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/AdiDayat12/coding-challenge/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/AdiDayat12/coding-challenge/tree/master/3221-find-the-peaks) |
@@ -259,6 +260,7 @@
 | [2825-minimize-string-length](https://github.com/AdiDayat12/coding-challenge/tree/master/2825-minimize-string-length) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AdiDayat12/coding-challenge/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/AdiDayat12/coding-challenge/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdiDayat12/coding-challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3468-find-the-encrypted-string](https://github.com/AdiDayat12/coding-challenge/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdiDayat12/coding-challenge/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
