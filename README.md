@@ -98,6 +98,7 @@
 | [1848-sum-of-unique-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/1848-sum-of-unique-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/AdiDayat12/coding-challenge/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/AdiDayat12/coding-challenge/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/AdiDayat12/coding-challenge/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AdiDayat12/coding-challenge/tree/master/2210-find-target-indices-after-sorting-array) |
