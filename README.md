@@ -300,6 +300,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/AdiDayat12/coding-challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdiDayat12/coding-challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AdiDayat12/coding-challenge/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -340,6 +341,7 @@
 | [3511-find-the-winning-player-in-coin-game](https://github.com/AdiDayat12/coding-challenge/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3567-convert-date-to-binary](https://github.com/AdiDayat12/coding-challenge/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AdiDayat12/coding-challenge/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -356,11 +358,13 @@
 | [3220-count-tested-devices-after-test-operations](https://github.com/AdiDayat12/coding-challenge/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/AdiDayat12/coding-challenge/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AdiDayat12/coding-challenge/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
 | ------- |
