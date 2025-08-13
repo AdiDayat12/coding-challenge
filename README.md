@@ -316,6 +316,7 @@
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/AdiDayat12/coding-challenge/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/AdiDayat12/coding-challenge/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/AdiDayat12/coding-challenge/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/AdiDayat12/coding-challenge/tree/master/0728-self-dividing-numbers) |
@@ -363,6 +364,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/AdiDayat12/coding-challenge/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/AdiDayat12/coding-challenge/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
