@@ -295,6 +295,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AdiDayat12/coding-challenge/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/AdiDayat12/coding-challenge/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AdiDayat12/coding-challenge/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/AdiDayat12/coding-challenge/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/AdiDayat12/coding-challenge/tree/master/0476-number-complement) |
@@ -318,6 +319,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/AdiDayat12/coding-challenge/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AdiDayat12/coding-challenge/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AdiDayat12/coding-challenge/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/AdiDayat12/coding-challenge/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/AdiDayat12/coding-challenge/tree/master/0728-self-dividing-numbers) |
@@ -366,6 +368,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/AdiDayat12/coding-challenge/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AdiDayat12/coding-challenge/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AdiDayat12/coding-challenge/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdiDayat12/coding-challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AdiDayat12/coding-challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
