@@ -1,23 +1,24 @@
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Map;
 class Solution {
     public int maxFrequencyElements(int[] nums) {
-     Map<Integer, Integer> freq = new HashMap<>();
+        Map<Integer, Integer> freq = new HashMap<>();
+        for (int i : nums) {
+            freq.put(i, freq.getOrDefault(i, 0) + 1);
+        }
 
-        for (int n : nums) {
-            freq.put(n, freq.getOrDefault(n, 0) + 1);
-        }
-        
+        Collection<Integer> values = freq.values();
         int max = 0;
-        List<Integer> values = new ArrayList<>();
-        for (Map.Entry<Integer, Integer> entry : freq.entrySet()){
-            max = Math.max(max, entry.getValue());
-            values.add(entry.getValue());
-        }
-        int count = 0;
-        for (int n : values) {
-            if (n == max){
-                count++;
+        int times = 1;
+        for (int v : values) {
+            if (v > max) {
+                max = v;
+                times = 1;
+            } else if (v == max) {
+                times++;
             }
         }
-        return max * count;
+        return max * times;
     }
 }
